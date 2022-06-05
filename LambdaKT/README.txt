@@ -1,0 +1,1 @@
+Simple Lambda Code for IntelliJ
