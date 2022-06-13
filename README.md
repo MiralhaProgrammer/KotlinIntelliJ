@@ -1,2 +1,2 @@
-# KotlinIntelliJ
-Kotlin codes for IntelliJJ 
+# KotlinProjects
+Kotlin codes developed in IntelliJ 
